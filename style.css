@@ -7,11 +7,52 @@
     color:#e2d8d3;
 }
 
+p{
+    color:#e2d8d3;
+}
+
+body{
+    background-color:black;
+}
+
 #welcome {
     transform: translate(40%, 50%);   
     font-size: 200%;
 }
 
 #ourteam_allpage{
-    
+    background-color: #1d416c;
+    transform: translate(0vw, -2vh);
+    height: 98vh;
+    width: 98vw;
+    border-radius: 10px;
+}
+
+#backbutton{
+    transform: translate(2vw, 40vh);
+    font-size: 3vh;
+    color:aqua;
+}
+
+a:link{
+    color:bisque;
+}
+
+a:visited{
+    color:bisque
+}
+
+#ourteam_profileline{
+    display:flex;
+    justify-content: space-between;
+    padding-left: 1vw;
+    padding-right: 1vw;
+    padding-top: 2vh;
+}
+
+.profilepic{
+    width:auto;
+    height:30vh;
+    border: 0.5vw solid rgb(8, 6, 67);
+    border-radius: 5%;
 }
