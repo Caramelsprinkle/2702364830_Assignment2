@@ -1,0 +1,17 @@
+.introduction_background {
+    background-color: #1d416c;
+    height: 10vh;
+    width: 100%;
+    border:#79b8e5;
+    border-radius: 10px;
+    color:#e2d8d3;
+}
+
+#welcome {
+    transform: translate(40%, 50%);   
+    font-size: 200%;
+}
+
+#ourteam_allpage{
+    
+}
